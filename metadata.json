@@ -14,7 +14,8 @@
   "prerequisites": [
     "atomic-learning-python-cells-importing-packages",
     "python-standard-library",
-    "python-packages"
+    "python-packages",
+    "numpy-importing-numpy"
   ],
   "related": [
     "python-numpy-array-data-types"
