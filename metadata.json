@@ -1,6 +1,6 @@
 {
-  "title": "Python: NumPy Arrays",
-  "slug": "python-numpy-arrays",
+  "title": "NumPy: Arrays",
+  "slug": "numpy-arrays",
   "description": "Introduce NumPy arrays as the core data structure for storing and creating numeric data from Python sequences.",
   "authors": [
     "chris-cooling",
