@@ -14,6 +14,7 @@ The resulting array stores the values in a form that NumPy can use for later num
 You can print a NumPy array in the same way as other Python values.
 
 ```py-cell
+# Make sure to run the cell above first to create our NumPy array
 print(my_array) # Print our NumPy array
 
 print([1, 2, 3]) # Print a list for comparison
