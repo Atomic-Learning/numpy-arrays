@@ -12,7 +12,9 @@
   ],
   "duration": 2,
   "prerequisites": [
-    "atomic-learning-python-cells-importing-packages"
+    "atomic-learning-python-cells-importing-packages",
+    "python-standard-library",
+    "python-packages"
   ],
   "related": [
     "python-numpy-array-data-types"
