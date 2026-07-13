@@ -1,6 +1,6 @@
 NumPy arrays are a data structure commonly used for working with collections of values in Python. NumPy arrays are efficient and provide many useful methods for performing numerical operations on the data they contain.
 
-One way to create a NumPy array is to call `np.array()` and passing in a sequence such as a list or tuple.
+One way to create a NumPy array is to call `np.array()`{.python} and passing in a sequence such as a list or tuple.
 
 ```py-cell
 import numpy as np
