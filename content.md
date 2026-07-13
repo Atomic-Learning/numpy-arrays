@@ -1,7 +1,3 @@
-# Python: NumPy Arrays
-
-# Arrays
-
 NumPy arrays are the main data structure used for working with collections of values efficiently in Python. You create one by calling `np.array()` and passing in a sequence such as a list or tuple.
 
 ```py-cell
