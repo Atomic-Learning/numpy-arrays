@@ -5,19 +5,8 @@ One way to create a NumPy array is to call `np.array()` and passing in a sequenc
 ```py-cell
 import numpy as np
 my_array = np.array([1, 2, 3])
+
+print(my_array)
 ```
 
 The resulting array stores the values in a form that NumPy can use for later numerical operations.
-
-# Printing Arrays
-
-You can print a NumPy array in the same way as other Python values.
-
-```py-cell
-# Make sure to run the cell above first to create our NumPy array
-print(my_array) # Print our NumPy array
-
-print([1, 2, 3]) # Print a list for comparison
-```
-
-Notice that NumPy prints the array without commas between the values, while a Python list includes commas. That makes it easier to tell the two types apart when they are displayed.

@@ -13,7 +13,8 @@
   "duration": 2,
   "prerequisites": [
     "atomic-learning-python-cells-importing-packages",
-    "python-standard-library",
+    "programming-calling-functions",
+    "programming-lists-arrays",
     "python-packages",
     "numpy-importing-numpy"
   ],
