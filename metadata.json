@@ -14,6 +14,7 @@
   "prerequisites": [
     "programming-calling-functions",
     "programming-lists-arrays",
+    "python-lists-introduction",
     "numpy-importing-numpy"
   ],
   "related": [
