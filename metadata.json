@@ -19,5 +19,8 @@
   ],
   "related": [
     "python-numpy-array-data-types"
-  ]
+  ],
+  "python_packages": [
+        "numpy"
+    ]
 }
