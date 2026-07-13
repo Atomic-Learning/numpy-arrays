@@ -1,0 +1,20 @@
+{
+  "title": "Python: NumPy Arrays",
+  "slug": "python-numpy-arrays",
+  "description": "Introduce NumPy arrays as the core data structure for storing and creating numeric data from Python sequences.",
+  "authors": [
+    "chris-cooling",
+    "giorgia-del-missier"
+  ],
+  "tags": [
+    "python",
+    "numpy"
+  ],
+  "duration": 2,
+  "prerequisites": [
+    "atomic-learning-python-cells-importing-packages"
+  ],
+  "related": [
+    "python-numpy-array-data-types"
+  ]
+}
