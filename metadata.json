@@ -14,10 +14,11 @@
   "prerequisites": [
     "programming-calling-functions",
     "programming-lists-arrays",
+    "python-lists-introduction",
     "numpy-importing-numpy"
   ],
   "related": [
-    "python-numpy-array-data-types"
+    "numpy-array-data-types"
   ],
   "python_packages": [
         "numpy"
