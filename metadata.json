@@ -10,7 +10,7 @@
     "python",
     "numpy"
   ],
-  "duration": 1,
+  "duration": 2,
   "prerequisites": [
     "programming-calling-functions",
     "programming-lists-arrays",
