@@ -18,7 +18,8 @@
     "numpy-importing-numpy"
   ],
   "related": [
-    "numpy-array-data-types"
+    "numpy-array-data-types",
+    "numpy-arange"
   ],
   "python_packages": [
         "numpy"
