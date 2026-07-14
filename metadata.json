@@ -19,7 +19,8 @@
   ],
   "related": [
     "numpy-array-data-types",
-    "numpy-arange"
+    "numpy-arange",
+    "numpy-arrays-with-multiple-dimensions"
   ],
   "python_packages": [
         "numpy"
